@@ -1,0 +1,14 @@
+h1 {
+    margin-bottom: 2rem;
+}
+
+.game {
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
